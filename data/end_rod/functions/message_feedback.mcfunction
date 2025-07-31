@@ -1,0 +1,10 @@
+execute as @a[tag=0721] if score @s er_gc matches 50 run tellraw @a [{"text": "[", "color": "gold"}, {"selector": "@s"}, {"text": "] ", "color": "gold"}, {"text": "快，快弄进来，我不行了，我要。", "color": "yellow"}]
+execute as @a[tag=0721] if score @s er_gc matches 200 run tellraw @a [{"text": "[", "color": "gold"}, {"selector": "@s"}, {"text": "] ", "color": "gold"}, {"text": "恩……恩……人家……恩……忍不住嘛！啊！啊！", "color": "yellow"}]
+execute as @a[tag=0721] if score @s er_gc matches 400 run tellraw @a [{"text": "[", "color": "gold"}, {"selector": "@s"}, {"text": "] ", "color": "gold"}, {"text": "呃~啊~呃~。", "color": "yellow"}]
+execute as @a[tag=0721] if score @s er_gc matches 600 run tellraw @a [{"text": "[", "color": "gold"}, {"selector": "@s"}, {"text": "] ", "color": "gold"}, {"text": "啊啊……嗯……啊！啊！啊！", "color": "yellow"}]
+execute as @a[tag=0721] if score @s er_gc matches 800 run tellraw @a [{"text": "[", "color": "gold"}, {"selector": "@s"}, {"text": "] ", "color": "gold"}, {"text": "啊嗯……喔喔喔……啊、啊……", "color": "yellow"}]
+execute as @a[tag=0721] if score @s er_gc matches 1000 run tellraw @a [{"text": "[", "color": "gold"}, {"selector": "@s"}, {"text": "] ", "color": "gold"}, {"text": "啊……啊……啊啊啊啊！", "color": "yellow"}]
+execute as @a[tag=0721] if score @s er_gc matches 1200 run tellraw @a [{"text": "[", "color": "gold"}, {"selector": "@s"}, {"text": "] ", "color": "gold"}, {"text": "嗯！嗯！啊！喔", "color": "yellow"}]
+execute as @a[tag=0721] if score @s er_gc matches 1400 run tellraw @a [{"text": "[", "color": "gold"}, {"selector": "@s"}, {"text": "] ", "color": "gold"}, {"text": "太会弄了，好美，来了，要来了，啊～～～～～！", "color": "yellow"}]
+execute as @a[tag=0721] if score @s er_gc matches 1600 run tellraw @a [{"text": "[", "color": "gold"}, {"selector": "@s"}, {"text": "] ", "color": "gold"}, {"text": "好爽喔嗯啊好爽啊喔好爽好爽！", "color": "yellow"}]
+

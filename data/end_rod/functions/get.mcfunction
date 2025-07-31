@@ -1,0 +1,1 @@
+give @p minecraft:end_rod{custom_id: "end_rod_0721", Enchantments:[{id: "minecraft:efficiency", lvl: 5}], display:{Lore: ['{"text": "由末地水晶精制而成", "color": "white", "italic": false}'], Name:'{"text": "可插入式末地烛", "color": "yellow", "italic": false}'}}
